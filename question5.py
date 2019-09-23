@@ -3,4 +3,4 @@
 
 squad = ["One", "Two", "Three", "Four", "Five"]
 for index in range(len(squad)-1, -1, -1):
-    print(index)
+    print(index) # you need to list from the array not the index
